@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.env
+.env.*
+*.pem
+*.key
+data/
+*.csv
+*.parquet
